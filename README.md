@@ -5,14 +5,14 @@
 
 ### Hi, im Rodrigo - a.k.a. [IngRoy][Website] 👋
 
-**- 🔭 I’m currently working on ...
+**- 🔭 I’m currently working on ...**
 - 🌱 I’m currently learning to be a Profetional Developer
 - 👯 I’m looking to collaborate on an Open Source Project
 - 🤔 I’m looking for help with get my First Job as Developer
-**- 💬 Ask me about ...
-**- 📫 How to reach me: ...
-**- 😄 Pronouns: ...
-**- ⚡ Fun fact: ...
+**- 💬 Ask me about ...**
+**- 📫 How to reach me: ...**
+**- 😄 Pronouns: ...**
+**- ⚡ Fun fact: ...**
 -->
 
 [![Website](https://img.shields.io/website?label=IngRoy.com&style=for-the-badge&url=https%3A%2F%2Fingroy.com)](https://ingroy.com)
