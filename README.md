@@ -76,9 +76,8 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-[![LastGentlman's GitHub stats](https://github-readme-stats.vercel.app/api?username=lastgentlman)](https://github.com/lastgentlman/github-readme-stats)
   
-  <img align="left" alt="LastGentlman's GitHub Stats" src="https://github-readme-stats.lastgentlman.vercel.app/api?username=lastgentlman&show_icons=true&hide_border=true" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lastgentlman)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
