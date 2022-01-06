@@ -77,7 +77,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lastgentlman)](https://github.com/lastGentlman)
+[![LastGentlman's GitHub stats](https://github-readme-stats.vercel.app/api?username=lastgentlman&show_icons=true&hide_border=true)](https://github.com/lastGentlman)
 
 </details>
 
