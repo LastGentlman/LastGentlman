@@ -12,7 +12,7 @@
 - 📫 How to reach me: Trough social media
 - 😄 Pronouns: he/him
 - 🥅 2022 Goals: Loarn a lot, get a job and keep learnin
-- ⚡ Fun fact: 
+<!-- - ⚡ Fun fact: -->
 
 [![Website](https://img.shields.io/website?label=IngRoy.com&style=for-the-badge&url=https%3A%2F%2Fingroy.com)](https://ingroy.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/1ngRoy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F1ngRoy&screen_name=1ngRoy)
