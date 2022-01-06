@@ -2,7 +2,7 @@
 **LastGentlman/LastGentlman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hi, im Rodrigo - a.k.a. [IngRoy][Website] 👋
+### Hi, im Rodrigo - a.k.a. <a target="_blank" href="https://ingroy.com">Ing Roy</a> 👋
 
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning to be a Profetional Developer
@@ -92,7 +92,7 @@
 
 </details>
 
-[website]: <a target='_blank' href='https://IngRoy.com'></a>
+[website]: https://IngRoy.com
 [twitter]: https://twitter.com/1ngRoy
 [youtube]: https://www.youtube.com/channel/UC7HAWuPFULMnigoHHp6EOmA
 [instagram]: https://www.instagram.com/1ngroy
