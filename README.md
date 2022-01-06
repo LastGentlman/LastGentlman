@@ -70,6 +70,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/LastGentlman/LastGentlman/pull/1) in [LastGentlman/LastGentlman](https://github.com/LastGentlman/LastGentlman)
+2. 💪 Opened PR [#1](https://github.com/LastGentlman/LastGentlman/pull/1) in [LastGentlman/LastGentlman](https://github.com/LastGentlman/LastGentlman)
+3. 🎉 Merged PR [#1](https://github.com/LastGentlman/curriculum/pull/1) in [LastGentlman/curriculum](https://github.com/LastGentlman/curriculum)
+4. 💪 Opened PR [#1](https://github.com/LastGentlman/curriculum/pull/1) in [LastGentlman/curriculum](https://github.com/LastGentlman/curriculum)
 <!--END_SECTION:activity-->
 
 </details>
