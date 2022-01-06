@@ -47,7 +47,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Galvek DS2 Melee!](https://www.youtube.com/watch?v=ZokfVVjPyms)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC7HAWuPFULMnigoHHp6EOmA)
