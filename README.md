@@ -1,7 +1,6 @@
 <!--
 **LastGentlman/LastGentlman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-sed -i 's|href="http|target="_blank" href="http|g' README.md
 
 ### Hi, im Rodrigo - a.k.a. [IngRoy][Website] 👋
 
@@ -93,7 +92,7 @@ sed -i 's|href="http|target="_blank" href="http|g' README.md
 
 </details>
 
-[website]: https://IngRoy.com
+[website]: <a target='_blank' href='https://IngRoy.com'></a>
 [twitter]: https://twitter.com/1ngRoy
 [youtube]: https://www.youtube.com/channel/UC7HAWuPFULMnigoHHp6EOmA
 [instagram]: https://www.instagram.com/1ngroy
