@@ -61,6 +61,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dvorak vs Qwerty](https://www.ingroy.com/2021/12/dvorak-vs-qwerty.html)
+- [Learning to be a PRO Developer 😎 : my Path](https://www.ingroy.com/2021/12/learning-to-be-pro-developer-my-path.html)
+- [My Presentation post](https://www.ingroy.com/2021/11/my-presentation-post.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://ingroy.com)
