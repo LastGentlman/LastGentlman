@@ -5,14 +5,14 @@
 ### Hi, im Rodrigo - a.k.a. <a target="_blank" href="https://ingroy.com">Ing Roy</a> 👋
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning to be a Profetional Developer
+- 🌱 I’m currently learning to be a Professional Developer
 - 👯 I’m looking to collaborate on an Open Source Project
-- 🤔 I’m looking for help with get my First Job as Developer
-- 💬 Ask me about anything, if its on my knowledge i will help
-- 📫 How to reach me: Trough social media
+- 🤔 I’m looking for help with getting my First Job as a Developer
+- 💬 Ask me about anything, if it's on my knowledge I will help
+- 📫 How to reach me: Through social media
 - 😄 Pronouns: he/him
-- 🥅 2022 Goals: Loarn a lot, get a job and keep learnin
-- ⚡ Fun fact: I like to watch anime and play OSRS
+- 🥅 2022 Goals: Learn a lot, get a job and keep learning
+- ⚡: Besides constantly learning new things, I like to watch anime and play OSRS
 
 [![Website](https://img.shields.io/website?label=IngRoy.com&style=for-the-badge&url=https%3A%2F%2Fingroy.com)](https://ingroy.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/1ngRoy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F1ngRoy&screen_name=1ngRoy)
