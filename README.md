@@ -69,10 +69,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/LastGentlman/RockPaperScissors/pull/2) in [LastGentlman/RockPaperScissors](https://github.com/LastGentlman/RockPaperScissors)
-2. 💪 Opened PR [#2](https://github.com/LastGentlman/RockPaperScissors/pull/2) in [LastGentlman/RockPaperScissors](https://github.com/LastGentlman/RockPaperScissors)
-3. 🎉 Merged PR [#1](https://github.com/LastGentlman/RockPaperScissors/pull/1) in [LastGentlman/RockPaperScissors](https://github.com/LastGentlman/RockPaperScissors)
-4. 💪 Opened PR [#1](https://github.com/LastGentlman/RockPaperScissors/pull/1) in [LastGentlman/RockPaperScissors](https://github.com/LastGentlman/RockPaperScissors)
+1. ❗️ Opened issue [#1](https://github.com/LastGentlman/ETCH-A-SKETCH/issues/1) in [LastGentlman/ETCH-A-SKETCH](https://github.com/LastGentlman/ETCH-A-SKETCH)
+2. 🎉 Merged PR [#2](https://github.com/LastGentlman/RockPaperScissors/pull/2) in [LastGentlman/RockPaperScissors](https://github.com/LastGentlman/RockPaperScissors)
+3. 💪 Opened PR [#2](https://github.com/LastGentlman/RockPaperScissors/pull/2) in [LastGentlman/RockPaperScissors](https://github.com/LastGentlman/RockPaperScissors)
+4. 🎉 Merged PR [#1](https://github.com/LastGentlman/RockPaperScissors/pull/1) in [LastGentlman/RockPaperScissors](https://github.com/LastGentlman/RockPaperScissors)
 <!--END_SECTION:activity-->
 
 </details>
