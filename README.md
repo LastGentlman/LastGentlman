@@ -84,8 +84,8 @@
 
 </details>
 
-[website]: https://IngRoy.com
-[twitter]: https://twitter.com/1ngRoy
+[website]: https://www.IngRoy.com
+[twitter]: https://www.twitter.com/1ngRoy
 [youtube]: https://www.youtube.com/channel/UC7HAWuPFULMnigoHHp6EOmA
 [instagram]: https://www.instagram.com/1ngroy
 [linkedin]: https://www.linkedin.com/in/IngRoy
