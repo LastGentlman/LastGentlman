@@ -5,9 +5,9 @@
 ### Hi, im Rodrigo - a.k.a. <a target="_blank" href="https://ingroy.com">Ing Roy</a> 👋
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning to be a Professional Developer
-- 👯 I’m looking to collaborate on an Open Source Project
-- 🤔 I’m looking for help with getting my First Job as a Developer
+- 🌱 Currently learning to be a Professional Developer
+- 👯 Looking to collaborate on an Open Source Project
+- 🤔 Looking for help with getting my First Job as a Developer
 - 💬 Ask me about anything, if it's on my knowledge I will help
 - 📫 How to reach me: Through social media
 - 😄 Pronouns: he/him
