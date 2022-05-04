@@ -9,7 +9,7 @@
 - 👯 Looking to collaborate on an Open Source Project
 - 🤔 Looking for help with getting my First Job as a Developer
 - 💬 Ask me about anything, if it's on my knowledge I will help
-- 📫 How to reach me: Through social media
+- 📫 How to reach me: u can DM me on Twitter or Instagram
 - 😄 Pronouns: he/him
 - 🥅 2022 Goals: Learn a lot, get a job and keep learning
 - ⚡: Besides constantly learning new things, I like to watch anime and play OSRS
