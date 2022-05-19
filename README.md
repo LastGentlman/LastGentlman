@@ -56,7 +56,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to update node](https://www.ingroy.com/2022/05/how-to-uninstall-node.html)
+- [How to update node with nvm](https://www.ingroy.com/2022/05/how-to-uninstall-node.html)
 - [Dvorak vs Qwerty](https://www.ingroy.com/2021/12/dvorak-vs-qwerty.html)
 - [Learning to be a PRO Developer 😎 : my Path](https://www.ingroy.com/2021/12/learning-to-be-pro-developer-my-path.html)
 - [My Presentation post](https://www.ingroy.com/2021/11/my-presentation-post.html)
