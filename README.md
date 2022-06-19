@@ -47,6 +47,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [1ng Roy Live Stream](https://www.youtube.com/watch?v=NGbt1aE_x4c)
 - [Whats Success?](https://www.youtube.com/watch?v=f5TTEmFmnM4)
 <!-- YOUTUBE:END -->
 
