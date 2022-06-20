@@ -47,7 +47,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Success = Happiness it&#39;s a Path, Not a Goal](https://www.youtube.com/watch?v=K3uCksSA9g4)
+- [&lpar;Success = Happiness&rpar; it&#39;s a Path, Not a Goal](https://www.youtube.com/watch?v=K3uCksSA9g4)
 - [1ng Roy Live Stream](https://www.youtube.com/watch?v=NGbt1aE_x4c)
 - [Whats Success?](https://www.youtube.com/watch?v=f5TTEmFmnM4)
 <!-- YOUTUBE:END -->
