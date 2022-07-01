@@ -48,8 +48,6 @@
 
 <!-- YOUTUBE:START -->
 - [&lpar;Success = Happiness&rpar; it&#39;s a Path, Not a Goal](https://www.youtube.com/watch?v=K3uCksSA9g4)
-- [1ng Roy Live Stream](https://www.youtube.com/watch?v=NGbt1aE_x4c)
-- [Whats Success?](https://www.youtube.com/watch?v=f5TTEmFmnM4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC7HAWuPFULMnigoHHp6EOmA)
