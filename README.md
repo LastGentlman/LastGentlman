@@ -71,7 +71,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/LastGentlman/ETCH-A-SKETCH/issues/1) in [LastGentlman/ETCH-A-SKETCH](https://github.com/LastGentlman/ETCH-A-SKETCH)
+1. 💪 Opened PR [#1](https://github.com/Benrhu/OvenexWebsite-Frontend/pull/1) in [Benrhu/OvenexWebsite-Frontend](https://github.com/Benrhu/OvenexWebsite-Frontend)
 2. 🗣 Commented on [#1](https://github.com/LastGentlman/ETCH-A-SKETCH/issues/1) in [LastGentlman/ETCH-A-SKETCH](https://github.com/LastGentlman/ETCH-A-SKETCH)
 3. ❗️ Opened issue [#1](https://github.com/LastGentlman/ETCH-A-SKETCH/issues/1) in [LastGentlman/ETCH-A-SKETCH](https://github.com/LastGentlman/ETCH-A-SKETCH)
 4. 🎉 Merged PR [#2](https://github.com/LastGentlman/RockPaperScissors/pull/2) in [LastGentlman/RockPaperScissors](https://github.com/LastGentlman/RockPaperScissors)
