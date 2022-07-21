@@ -47,6 +47,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Kazam screencast 00007](https://www.youtube.com/watch?v=kyeHOc6H5fE)
 - [&lpar;Success = Happiness&rpar; it&#39;s a Path, Not a Goal](https://www.youtube.com/watch?v=K3uCksSA9g4)
 <!-- YOUTUBE:END -->
 
