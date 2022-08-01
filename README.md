@@ -72,10 +72,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/LastGentlman/My-Weather-App/pull/1) in [LastGentlman/My-Weather-App](https://github.com/LastGentlman/My-Weather-App)
-2. 💪 Opened PR [#1](https://github.com/LastGentlman/My-Weather-App/pull/1) in [LastGentlman/My-Weather-App](https://github.com/LastGentlman/My-Weather-App)
-3. 💪 Opened PR [#1](https://github.com/Benrhu/OvenexWebsite-Frontend/pull/1) in [Benrhu/OvenexWebsite-Frontend](https://github.com/Benrhu/OvenexWebsite-Frontend)
-4. 🎉 Merged PR [#2](https://github.com/LastGentlman/RockPaperScissors/pull/2) in [LastGentlman/RockPaperScissors](https://github.com/LastGentlman/RockPaperScissors)
+1. ❌ Closed PR [#1](https://github.com/Benrhu/OvenexWebsite-Frontend/pull/1) in [Benrhu/OvenexWebsite-Frontend](https://github.com/Benrhu/OvenexWebsite-Frontend)
+2. 🎉 Merged PR [#1](https://github.com/LastGentlman/My-Weather-App/pull/1) in [LastGentlman/My-Weather-App](https://github.com/LastGentlman/My-Weather-App)
+3. 💪 Opened PR [#1](https://github.com/LastGentlman/My-Weather-App/pull/1) in [LastGentlman/My-Weather-App](https://github.com/LastGentlman/My-Weather-App)
+4. 💪 Opened PR [#1](https://github.com/Benrhu/OvenexWebsite-Frontend/pull/1) in [Benrhu/OvenexWebsite-Frontend](https://github.com/Benrhu/OvenexWebsite-Frontend)
 <!--END_SECTION:activity-->
 
 </details>
