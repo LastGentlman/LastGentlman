@@ -14,7 +14,7 @@
 - 🥅 2022 Goals: Learn a lot, get a job and keep learning
 - ⚡: Besides constantly learning new things, I like to watch anime and play OSRS
 
-[![Website](https://img.shields.io/website?down_color=lightgrey&&label=IngRoy.com&down_message=DOWN&style=for-the-badge&up_color=green&up_message=UP&url=https%3A%2F%2Fingroy.com)](http://ingroy.com)
+[![Website](https://img.shields.io/website?down_color=lightgrey&down_message=DOWN&label=IngRoy%2Ccom&style=flat-square&up_color=green&up_message=UP&url=http%3A%2F%2Fingroy.com)](http://IngRoy.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/1ngRoy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F1ngRoy&screen_name=1ngRoy)
 
 ### Connect with me:
@@ -87,7 +87,7 @@
 
 </details>
 
-[website]: https://www.IngRoy.com
+[website]: http://IngRoy.com
 [twitter]: https://www.twitter.com/1ngRoy
 [youtube]: https://www.youtube.com/channel/UC7HAWuPFULMnigoHHp6EOmA
 [instagram]: https://www.instagram.com/1ngroy
