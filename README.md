@@ -72,10 +72,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/Benrhu/OvenexWebsite-Frontend/pull/1) in [Benrhu/OvenexWebsite-Frontend](https://github.com/Benrhu/OvenexWebsite-Frontend)
-2. 🎉 Merged PR [#1](https://github.com/LastGentlman/My-Weather-App/pull/1) in [LastGentlman/My-Weather-App](https://github.com/LastGentlman/My-Weather-App)
-3. 💪 Opened PR [#1](https://github.com/LastGentlman/My-Weather-App/pull/1) in [LastGentlman/My-Weather-App](https://github.com/LastGentlman/My-Weather-App)
-4. 💪 Opened PR [#1](https://github.com/Benrhu/OvenexWebsite-Frontend/pull/1) in [Benrhu/OvenexWebsite-Frontend](https://github.com/Benrhu/OvenexWebsite-Frontend)
+1. 🗣 Commented on [#11](https://github.com/Open-Bootcamp/protectoras-animales/issues/11) in [Open-Bootcamp/protectoras-animales](https://github.com/Open-Bootcamp/protectoras-animales)
+2. 🗣 Commented on [#11](https://github.com/Open-Bootcamp/protectoras-animales/issues/11) in [Open-Bootcamp/protectoras-animales](https://github.com/Open-Bootcamp/protectoras-animales)
+3. ❌ Closed PR [#1](https://github.com/Benrhu/OvenexWebsite-Frontend/pull/1) in [Benrhu/OvenexWebsite-Frontend](https://github.com/Benrhu/OvenexWebsite-Frontend)
+4. 🎉 Merged PR [#1](https://github.com/LastGentlman/My-Weather-App/pull/1) in [LastGentlman/My-Weather-App](https://github.com/LastGentlman/My-Weather-App)
 <!--END_SECTION:activity-->
 
 </details>
