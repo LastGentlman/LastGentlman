@@ -14,8 +14,14 @@
 - 🥅 2022 Goals: Learn a lot, get a job and keep learning
 - ⚡: Besides constantly learning new things, I like to watch anime and play OSRS
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/1ngRoy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F1ngRoy&screen_name=1ngRoy) <br />
 [![Website](https://img.shields.io/website?down_color=lightgrey&down_message=DOWN&label=IngRoy%2Ccom&style=flat-square&up_color=green&up_message=UP&url=http%3A%2F%2Fingroy.com)](http://IngRoy.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/1ngRoy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F1ngRoy&screen_name=1ngRoy)
+
+### Support me ☕🫱🏻‍🫲🏼☕
+[<img src="https://camo.githubusercontent.com/28aae05a0fba45679e8e27d90609601e249b64a5fe30dfef05495de4f4e318d4/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67" alt="support" align="left" target="_blank" width="190px" />](buymeacoffee.com/?via=IngRoy)
+
+<br/>
+<br />
 
 ### Connect with me:
 
@@ -77,15 +83,11 @@
 3. 🎉 Merged PR [#1](https://github.com/LastGentlman/My-StoryBook-App/pull/1) in [LastGentlman/My-StoryBook-App](https://github.com/LastGentlman/My-StoryBook-App)
 4. 💪 Opened PR [#1](https://github.com/LastGentlman/My-StoryBook-App/pull/1) in [LastGentlman/My-StoryBook-App](https://github.com/LastGentlman/My-StoryBook-App)
 <!--END_SECTION:activity-->
-
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+:zap: GitHub Stats
   
 [![LastGentlman's GitHub stats](https://github-readme-stats.vercel.app/api?username=lastgentlman&show_icons=true&hide_border=true)](https://github.com/lastGentlman)
-
-</details>
 
 [website]: http://IngRoy.com
 [twitter]: https://www.twitter.com/1ngRoy
