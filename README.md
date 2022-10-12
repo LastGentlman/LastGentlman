@@ -53,8 +53,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Just chatting](https://www.youtube.com/watch?v=kyeHOc6H5fE)
-- [&lpar;Success = Happiness&rpar; it&#39;s a Path, Not a Goal](https://www.youtube.com/watch?v=K3uCksSA9g4)
+- [1ng Roy Live Stream](https://www.youtube.com/watch?v=oQh-MZYAtQI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC7HAWuPFULMnigoHHp6EOmA)
