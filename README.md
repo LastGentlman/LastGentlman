@@ -13,6 +13,16 @@
 [![Website](https://img.shields.io/website?down_color=lightgrey&down_message=DOWN&label=IngRoy%2Ccom&style=flat-square&up_color=green&up_message=UP&url=http%3A%2F%2Fingroy.com)](http://Cv.IngRoy.com)
 
 <br/>
+### Projets:
+
+- [Smart Point of Sale](https://ingroy.com)
+- [Landing Web Generator & Deployment](https://gatez.io)
+- [Video Backup Tool](https://ctool.ingroy.com)
+- [Movies, Series & Anime](https://pelis.ingroy.com)
+- [Activo Fijo Assets Management](https://activos.ingroy.com)
+- Multi Player Browser Base Videogame
+- Video Recorder (Desktop App for Linux and Windows)
+
 <br />
 
 ### Connect with me:
