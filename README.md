@@ -90,10 +90,6 @@
 <!--END_SECTION:activity-->
 </details>
 
-:zap: GitHub Stats
-  
-[![LastGentlman's GitHub stats](https://github-readme-stats.vercel.app/api?username=lastgentlman&show_icons=true&hide_border=true)](https://github.com/lastGentlman)
-
 [website]: http://IngRoy.com
 [twitter]: https://www.twitter.com/1ngRoy
 [youtube]: https://www.youtube.com/channel/UC7HAWuPFULMnigoHHp6EOmA
