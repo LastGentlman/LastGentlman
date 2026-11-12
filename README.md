@@ -2,59 +2,244 @@
 **LastGentlman/LastGentlman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Hi, im Rodrigo - a.k.a. <a target="_blank" href="https://ingroy.com">Ing Roy</a> 👋
+<div align="center">
 
-<!-- - 🔭 I’m currently working on ... -->
-- 💬 Ask me about anything, if it's on my knowledge I will help
-- 📫 How to reach me: u can DM me on Twitter or Instagram
-- 😄 Pronouns: he/him
+# Hi, I'm Rodrigo - a.k.a. <a target="_blank" href="https://ingroy.com">Ing Roy</a> 👋
+### Software Engineer & Full-Stack Developer · *Coding a Better Tomorrow*
 
-[![X Follow](https://img.shields.io/twitter/follow/:1ngRoy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2F1ngRoy&screen_name=1ngRoy) <br />
-[![Website](https://img.shields.io/website?down_color=lightgrey&down_message=DOWN&label=IngRoy%2Ccom&style=flat-square&up_color=green&up_message=UP&url=http%3A%2F%2Fingroy.com)](http://Cv.IngRoy.com)
-
-<br/>
-
-### Projets:
-
-- [Smart Point of Sale](https://ingroy.com)
-- [Landing Web Generator & Deployment](https://gatez.io)
-- [Video Backup Tool](https://ctool.ingroy.com)
-- [Movies, Series & Anime](https://pelis.ingroy.com)
-- [Activo Fijo Assets Management](https://activos.ingroy.com)
-- [Lockers Self-Asignment](https://lockers.ingroy.com/)
-- Multi Player Browser Base Videogame
-- Video Recorder (Desktop App for Linux and Windows)
-
-<br />
-
-### Connect with me:
-
-[<img align="left" target="_blank" alt="cv.IngRoy.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" target="_blank" alt="IngRoy | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" target="_blank" alt="IngRoy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" target="_blank" alt="IngRoy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" target="_blank" alt="IngRoy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![Website](https://img.shields.io/badge/Portfolio-cv.ingroy.com-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cv.ingroy.com/)
+[![X Follow](https://img.shields.io/twitter/follow/1ngRoy?color=1DA1F2&logo=x&style=for-the-badge&label=Follow%20%401ngRoy)](https://twitter.com/1ngRoy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-IngRoy-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/IngRoy)
+[![YouTube](https://img.shields.io/badge/YouTube-IngRoy-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC7HAWuPFULMnigoHHp6EOmA)
 
 <br/>
 
-### Languages and Tools:
+> 💬 *Always eager to build, solve complex problems, and share knowledge. Feel free to reach out or connect!*  
+> 📍 **International Citizen** · 👨‍💻 **Pronouns:** he/him · 📬 **DM:** [@1ngRoy](https://twitter.com/1ngRoy)
 
-[<img align="left" target="none" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
+</div>
 
 <br/>
-<br />
 
 ---
 
-### 📺 Latest YouTube Videos
+## 🚀 Featured Projects Portfolio
+
+A curated collection of full-stack platforms, production SaaS solutions, computer vision tools, and multimedia experiments.
+
+<br/>
+
+### 💼 Enterprise Systems & SaaS Solutions
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏪 Smart Point of Sale (myPOS)</h3>
+      <p>Cloud-native point of sale and commercial management platform featuring inventory automation, multi-cashier management, appointment booking, and real-time sales reporting.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </p>
+      <p>
+        🔗 <a href="https://ingroy.com" target="_blank"><b>Live Application</b></a> &nbsp;|&nbsp;
+        🔒 <i>Production / Enterprise Code</i>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏢 Activo Fijo (Asset Management)</h3>
+      <p>Enterprise physical asset tracking and lifecycle management system with financial depreciation calculation, barcode/QR asset labeling, and audit logging.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </p>
+      <p>
+        🔗 <a href="https://activos.ingroy.com" target="_blank"><b>Live Demo</b></a> &nbsp;|&nbsp;
+        🔒 <i>Private Enterprise</i>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔐 Lockers Self-Assignment</h3>
+      <p>Self-service automated locker allocation and reservation platform designed for corporate facilities and campus environments with dynamic occupancy monitoring.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      </p>
+      <p>
+        🔗 <a href="https://lockers.ingroy.com/" target="_blank"><b>Live System</b></a> &nbsp;|&nbsp;
+        🔒 <i>Enterprise Solution</i>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Gatez (Landing Web Generator & Deployment)</h3>
+      <p>High-performance automated landing page builder and rapid deployment pipeline engineered for quick marketing page iteration and conversion tracking.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      </p>
+      <p>
+        🔗 <a href="https://gatez.io" target="_blank"><b>Live Platform</b></a> &nbsp;|&nbsp;
+        🔒 <i>Proprietary Engine</i>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 🛠️ AI, Computer Vision & Multimedia Engineering
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎥 Sci-Fi CCTV 3D Viewer</h3>
+      <p>Futuristic interactive 3D surveillance visualizer that renders security camera view cones, spatial blind spots, and real-time environment layouts in WebGL.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" />
+      </p>
+      <p>
+        🔒 <i>Surveillance R&D Project</i>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ CCTV Incident & Video Manager</h3>
+      <p>Operational incident tracking and surveillance video archival platform for security control rooms with evidence tagging and incident logs.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+      <p>
+        🔒 <i>Security Suite</i>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎨 ArtAds (AI Image & Prompt Generator)</h3>
+      <p>AI-driven advertising creative assistant that generates tailored prompts and image concepts optimized for digital marketing campaigns.</p>
+      <p>
+        <img src="https://img.shields.io/badge/OpenAI_/_Generative_AI-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      </p>
+      <p>
+        🔒 <i>Marketing AI Engine</i>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📥 Video Backup & Scraper Utility</h3>
+      <p>High-efficiency media extraction, format transcoding, and cloud backup utility tailored for reliable video archival workflows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+      <p>
+        🔗 <a href="https://ctool.ingroy.com" target="_blank"><b>Live Tool</b></a> &nbsp;|&nbsp;
+        🔒 <i>Archival Utility</i>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🎬 Pelis (Movies, Series & Anime Streaming & Catalog)</h3>
+      <p>Interactive entertainment streaming guide and media catalog application with rich metadata exploration, responsive video playback, and filtering.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Streaming_APIs-E50914?style=flat-square" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      </p>
+      <p>
+        🔗 <a href="https://pelis.ingroy.com" target="_blank"><b>Live Web App</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 🎮 Gaming & Desktop Applications
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🕹️ Multiplayer Browser-Based Videogame</h3>
+      <p>Real-time multiplayer browser videogame built with low-latency client-server synchronization, custom physics, and interactive canvas graphics.</p>
+      <p>
+        <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5_Canvas-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      </p>
+      <p>
+        🎮 <i>Interactive Gaming Lab</i>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📹 Video Recorder (Linux & Windows Desktop App)</h3>
+      <p>Cross-platform desktop application engineered for seamless screen and webcam capture with hardware-accelerated encoding.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
+      </p>
+      <p>
+        💻 <i>Cross-Platform Utility</i>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+## ⚡ Recently Updated Open Source Repositories
+
+> *Automatically synced daily via GitHub Actions*
+
+<!-- RECENT-REPOS:START -->
+- **[demoBot](https://github.com/LastGentlman/demoBot)** — Automated conversational assistant & bot prototype `[TypeScript]`
+- **[Chandra-vllm](https://github.com/LastGentlman/Chandra-vllm)** — LLM inference & serving experiments with vLLM `[Python]`
+- **[My-Weather-App](https://github.com/LastGentlman/My-Weather-App)** — React.JS Weather App `[JavaScript]`
+- **[ready4love](https://github.com/LastGentlman/ready4love)** — Dating & social discovery web application prototype `[TypeScript]`
+- **[WC-Landing](https://github.com/LastGentlman/WC-Landing)** — WebConcierge responsive client & marketing landing page `[React / JavaScript · ⭐ 1]`
+- **[soora-native](https://github.com/LastGentlman/soora-native)** — React Native mobile client application `[TypeScript]`
+<!-- RECENT-REPOS:END -->
+
+<br/>
+
+---
+
+## 🛠️ Tech Stack & Core Competencies
+
+<div align="center">
+
+| Area | Technologies |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
+| **Backend & APIs** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socketdotio&logoColor=white) |
+| **Databases & Cloud** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) |
+| **Tools & DevOps** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-black?style=flat&logo=three.js&logoColor=white) |
+
+</div>
+
+<br/>
+
+---
+
+## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [1ng Roy Live Stream](https://www.youtube.com/watch?v=j8_kctxlDO8)
@@ -62,11 +247,11 @@
 - [1ng Roy Live Stream](https://www.youtube.com/watch?v=oQh-MZYAtQI)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/channel/UC7HAWuPFULMnigoHHp6EOmA)
+➡️ [More videos on YouTube...](https://www.youtube.com/channel/UC7HAWuPFULMnigoHHp6EOmA)
 
 ---
 
-### 📕 Latest Blog Posts
+## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [How to update node with nvm](https://www.ingroy.com/2022/05/how-to-uninstall-node.html)
@@ -75,12 +260,12 @@
 - [My Presentation post](https://www.ingroy.com/2021/11/my-presentation-post.html)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://ingroy.com)
+➡️ [More blog posts at ingroy.com...](https://ingroy.com)
 
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>⚡ <b>Recent GitHub Activity</b></summary>
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3856](https://github.com/unifyai/ivy/issues/3856) in [unifyai/ivy](https://github.com/unifyai/ivy)
@@ -90,8 +275,8 @@
 <!--END_SECTION:activity-->
 </details>
 
-[website]: http://IngRoy.com
-[twitter]: https://www.twitter.com/1ngRoy
-[youtube]: https://www.youtube.com/channel/UC7HAWuPFULMnigoHHp6EOmA
-[instagram]: https://www.instagram.com/1ngroy
-[linkedin]: https://www.linkedin.com/in/IngRoy
+<br/>
+
+<div align="center">
+  <sub>Designed & engineered with ❤️ by <a href="https://cv.ingroy.com">Ing Roy</a></sub>
+</div>
