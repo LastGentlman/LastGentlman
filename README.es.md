@@ -2,10 +2,13 @@
 **LastGentlman/LastGentlman** es un repositorio ✨ _especial_ ✨ porque su `README.md` aparece en tu perfil de GitHub.
 -->
 <div align="center">
+  
 [![English](https://img.shields.io/badge/Language-English-lightgrey?style=for-the-badge&logo=readme)](README.md)
 [![Español](https://img.shields.io/badge/Idioma-Español-green?style=for-the-badge&logo=readme)](README.es.md)
+
 # Hola, soy Rodrigo - a.k.a. <a target="_blank" href="https://ingroy.com">Ing Roy</a> 👋
 ### Ingeniero de Software & Desarrollador Full-Stack · *Codificando un mejor mañana*
+
 [![Website](https://img.shields.io/badge/Portfolio-cv.ingroy.com-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cv.ingroy.com/)
 [![X Follow](https://img.shields.io/twitter/follow/1ngRoy?color=1DA1F2&logo=x&style=for-the-badge&label=Seguir%20%401ngRoy)](https://twitter.com/1ngRoy)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-IngRoy-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/IngRoy)
