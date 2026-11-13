@@ -1,0 +1,36 @@
+name: Auto-Translate README to Spanish
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'README.md'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    name: Sync Spanish README
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Run Auto-Translate Script
+        run: |
+          python .github/scripts/auto-translate.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git diff --quiet README.es.md || (git add README.es.md && git commit -m "Auto-sync README.es.md from README.md [skip ci]" && git push)
