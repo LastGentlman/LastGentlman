@@ -216,9 +216,9 @@ A curated collection of full-stack platforms, production SaaS solutions, compute
 - **[demoBot](https://github.com/LastGentlman/demoBot)** — Automated conversational assistant & bot prototype `[TypeScript]`
 - **[ready4love](https://github.com/LastGentlman/ready4love)** — Dating & social discovery web application prototype `[TypeScript]`
 - **[The-UTTM](https://github.com/LastGentlman/The-UTTM)** — Task Manager `[CSS]`
-- **[My-Portfolio](https://github.com/LastGentlman/My-Portfolio)** — Interactive web application & experiments `[Svelte]`
 - **[Meme-Generator](https://github.com/LastGentlman/Meme-Generator)** — React Meme Generator `[JavaScript]`
 - **[ETCH-A-SKETCH](https://github.com/LastGentlman/ETCH-A-SKETCH)** — Paint Board `[CSS]`
+- **[My-Budget-Organizer](https://github.com/LastGentlman/My-Budget-Organizer)** — Budget Organizer App With React.ts and PWA `[JavaScript]`
 <!-- RECENT-REPOS:END -->
 
 <br/>
